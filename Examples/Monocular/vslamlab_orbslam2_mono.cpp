@@ -5,8 +5,7 @@
 #include<opencv2/core/core.hpp>
 #include <yaml-cpp/yaml.h>
 
-#include "sys/types.h"
-#include "sys/sysinfo.h"
+#include <unistd.h>
 
 #include<System.h>
 

@@ -4,8 +4,7 @@
 #include<chrono>
 #include<opencv2/core/core.hpp>
 
-#include "sys/types.h"
-#include "sys/sysinfo.h"
+#include <unistd.h>
 
 #include<System.h>
 
